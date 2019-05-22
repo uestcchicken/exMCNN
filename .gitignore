@@ -1,0 +1,7 @@
+data/
+old_model/
+vgg16.npy
+model*/
+__pycache__/
+logs/
+
