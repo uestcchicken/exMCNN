@@ -31,8 +31,8 @@ run ```python3 test.py A(or B)```
 ### heatmap
 
 actual: 1110  
-![](sample/heat_A_2_act_1110.png)  
+![](sample/A/heat_A_2_act_1110.png)  
 predicted: 1181  
-![](sample/heat_A_2_pre_1181.png)
+![](sample/A/heat_A_2_pre_1181.png)
 
 
